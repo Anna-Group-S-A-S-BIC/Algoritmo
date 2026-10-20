@@ -1,0 +1,104 @@
+nombre,coordinador,direccion,personas,renovacion_automatica,criticidad,zona,visitas_mes
+145 Parkview,Andres Quitian,"Calle 145 N° 9-55, Colombia",6.0,1,estable,Norte,4.0
+Archanda,Hasbleidy Alba,"Transversal 29 N° 36-54, Bogotá, Colombia",0.5,0,estable,Centro - Occidente,1.0
+Arthur Gallagher,Hasbleidy Alba,"Avenida Carrera 19 No. 120 - 71 Of. 512, Colombia",0.5,1,estable,Norte,1.0
+Avante,Juan Roberto,"Carrera AK. 9 # 147- 46, Colombia",2.0,0,estable,Norte,2.0
+Canaria,Camilo Martinez,"Calle 12 N° 12-60 Ricaurte, Colombia",7.0,0,estable,Girardot,12.0
+Centenari,Andres Quitian,"Calle 18 N° 20-51, Colombia",10.0,0,estable,Centro,4.0
+Compensar Cajica,Juan Roberto,"CAJA DE COMPENSACIÓN FAMILIAR CAJICA KM4, Colombia",4.0,0,estable,Cajica,2.0
+Compensar Cll 220,Juan Roberto,"Carrera 7 Calle 220, Colombia",7.0,0,estable,Sabana Norte,4.0
+Compensar Kr 60,Juan Roberto,"Carrera 60 N° 66b -05, Colombia",1.0,0,estable,Occidente,1.0
+Innova schools Admin,Camilo Ospina,"Calle 75 N° 7-24, Bogotá, Colombia",1.0,0,estable,Norte,1.0
+Emilio Valenzuela,Alicia Farias,"Carrera 68 N° 180-45 barrio San José de bavaria, Colombia",21.0,1,estable,Norte,8.0
+Infinitum 58,Andres Quitian,"calle 58 bis N° 9 - 49, Colombia",2.0,1,estable,Centro - Oriente,1.0
+Innova schools Niza club,Camilo Ospina,"Carrera 59b N° 129-45, Bogotá, Colombia",2.0,0,estable,Norte,0.0
+Kin and Carta,Juan Roberto,"Carrera 7 N°120-20, Colombia",1.0,0,estable,Norte,1.0
+Nuba,Juan Roberto,"Carrera 15 A N° 124 74 BRR UNICENTRO, Colombia",1.0,1,critico,Norte,1.0
+Innova schools Tunja,Camilo Ospina,"Carrera 5 N° 38-90 Barrio Mesopotamia, Tunja, Boyaca, Colombia, Colombia",4.0,0,estable,Tunja,2.0
+Manaca las Palmas,Camilo Martinez,"Calle 12 N° 13-21 TORRE 4-703, Ricaurte, Cundinamarca, Colombia",4.0,1,critico,Ricaurte,4.0
+Meridiano Cota,Juan Roberto,"Km 1.8 Chia - Cota, vereda pueblo viejo. Centro comercial Meridiano Cota, Colombia",2.0,1,estable,Cota,2.0
+Naranjo 1,Hasbleidy Alba,"Calle 7 N° 58, Chía, Cundinamarca, Colombia",3.0,1,estable,Chia,2.0
+Novanta,Juan Roberto,"Carrera 14 N° 89-48, Colombia",3.0,1,estable,Norte,2.0
+Bavaro,Alicia Farias,"Avenida calle 32 No.13 – 83., Colombia",10.0,1,critico,Centro,8.0
+Innova schools Mosquera,Camilo Ospina,"Hacienda Alcalá 50, Mosquera, Cundinamarca, Colombia",8.0,0,estable,Mosquera,4.0
+Quinta Avenida,Juan Roberto,"Carrera 5 No. 23 47, Colombia",3.0,1,critico,Centro,2.0
+Redes Medicas IPS - principal,Hasbleidy Alba,"Carrera 15 N° 112 - 09, Colombia",11.0,1,estable,Norte,2.0
+Rivera susagua,Camilo Ospina,"Calle 8 N° 39-129 - Zipaquirá, Colombia",2.0,1,estable,Zipaquira,1.0
+Innova schools Niza,Camilo Ospina,"Carrera 59b N° 129-45, Bogotá, Colombia",7.0,0,estable,Norte,8.0
+Compensar - Autosur,Juan Roberto,"Autopista Sur N° 73 I 45, Colombia",1.0,0,estable,Sur,1.0
+Savanna 1,Camilo Ospina,"Variante Cajicá-Zipaquirá KM 2.5 Vía la Rochela, Colombia",1.0,1,estable,Cajica,1.0
+Torrecampo,Juan Roberto,"Calle 65 B N° 88 59, Colombia",4.0,1,critico,Occidente,2.0
+Torres del Este,Juan Roberto,"Carrera 2 Este No 6C 24 sur barrio buenos aires, Colombia",2.0,0,estable,Sur,2.0
+Verona,Andres Quitian,"Carrera 36 N° 3-41, Colombia",3.0,1,estable,Occidente,2.0
+Innova school Cota,Camilo Ospina,"Km 1,5 Variante Cota-Chía Conjunto Residencial Palo de Agua, Cota, Colombia",4.0,0,estable,Cota,4.0
+Nexus,Juan Roberto,"Calle 16 No 4 - 68 / 74, Colombia",2.0,1,critico,Centro,1.0
+Innova schools zipaquira,Camilo Ospina,"Calle 6B N° 20-21, Colombia",5.0,0,estable,zipaquira,4.0
+Mirador de San Diego,Laura Herrera,"Calle 29 N° 37a-38, Medellín, Buenos Aires, Medellín, Antioquia, Colombia",4.0,1,estable,Medellin,4.0
+Maua,Juan Roberto,"Calle 145 N° 13a - 02 / Bogotá, Colombia",1.0,0,estable,Norte,1.0
+Camino de Arrayanes,Juan Roberto,"Calle 213 N° 114-10 CLUB HOUSE, Colombia",2.0,0,estable,Sabana Norte,2.0
+Navarra,Andres Quitian,"Carrera 8 N° 170-52, Colombia",28.0,1,estable,Norte,8.0
+Meridiano Ikonic,Hasbleidy Alba,"Av carrera 68 No 5 - 75, Colombia",2.0,1,estable,Occidente,1.0
+Caimed,Hasbleidy Alba,"Calle 24 N° 3-02 barrio las delicias (Chia), Colombia",1.0,1,estable,Chia,1.0
+Edificio Vita,Hasbleidy Alba,"Carrera 4 este # 24-65, Colombia",1.0,1,estable,Chia,1.0
+Palatino,Andres Quitian,"Ak 7 #138-33, Colombia",25.0,1,estable,Norte,8.0
+Palatino Jardineria,Andres Quitian,"Ak 7 #138-33, Colombia",1.0,1,estable,Norte,0.0
+Asmedan - Suba,Hasbleidy Alba,"Calle 139 N° 101 C 06, Colombia",5.0,1,estable,Norte,2.0
+Asmedan - Kr 30,Hasbleidy Alba,"Avenida 1 de Mayo. 34-41, Colombia",5.0,1,estable,Sur,2.0
+Vida Medical - Bosque,Hasbleidy Alba,"Calle 134 N° 7-83, Colombia",3.0,1,estable,Norte,2.0
+Domus San Patricio,Hasbleidy Alba,"Carrera 17 N° 106-85, Colombia",1.0,1,estable,Norte,1.0
+Luna Apartamentos,Hasbleidy Alba,"Carrera 13 N° 17-30, Chía, Cundinamarca, Colombia",2.0,0,estable,Chia,1.0
+Madeira Manzana A,Camilo Martinez,"Calle 19 N° 24-468, Colombia",1.0,1,estable,Girardot,4.0
+Torreladera,Juan Roberto,"Carrera 80 N° 150-31, Colombia",2.0,0,estable,Norte,1.0
+Mixto Meridiano 13,Juan Roberto,"Calle 18 N° 77 -67, Colombia",5.0,0,estable,Occidente,4.0
+Motor Uno,Hasbleidy Alba,"- Kennedy Avda Carrera 80 N° 55a 20 sur , son 2 pisos - Suba Aures 2 - Calle 129D N° 104 b -04 son 4 pisos - Avda Boyaca N° 69 a-06 son 2 pisos., Colombia",1.0,1,estable,Norte,3.0
+Portus Alejandria,Andres Quitian,"Calle 159 No. 54-69, Colombia",8.0,0,estable,Norte,4.0
+Palo Agua II Katios,Juan Roberto,"Kilometro 1.5 variante cota chía, Colombia",2.0,1,estable,Cota,1.0
+Procoil,Andres Quitian,"Calle 19 N° 3A-43, Colombia",4.0,1,estable,Occidente,2.0
+Instituto de Cultura Brasil,Hasbleidy Alba,"Calle 104 N° 15- 31, Colombia",1.0,1,estable,Norte,1.0
+Brisas de Agua Blanca,Camilo Martinez,"Calle 19 N° 38-92, Colombia",3.0,0,estable,Girardot,4.0
+Lyon 2 Ciudad la Salle,Andres Quitian,"Carrera 14N° 172b -59, Colombia",6.0,1,estable,Norte,4.0
+Calatayud,Juan Roberto,"Avenida calle 145 N° 76 - 86, Suba, Colombia",1.5,1,estable,Norte,1.0
+Innova schools Usaquen,Camilo Ospina,"Carrera 8G N° 168-30, Colombia",5.0,0,estable,Norte,4.0
+Evolution Clinical Center,Hasbleidy Alba,"Carrera 11D N° 119 - 21, Colombia",2.0,1,estable,Norte,1.0
+Saviia Tecnourbana,Camilo Ospina,"Carrera 28 No. 6 -73, Zipaquirá, Cundinamarca, Colombia",2.0,0,estable,Tocancipa,1.0
+48 Hooras Dia SJ SAS,Laura Herrera,"Carrera 50 FF SUR, oficina 503, CC Empresarial 808, Barrio Guayabal, Colombia",1.0,1,estable,Medellin,2.0
+Innova schools Barranquilla,Camilo Ospina,"Calle 1B N° 24-10 - Puerto Colombia, Colombia",6.0,0,estable,Barranquilla,8.0
+TORRE CAMPO 3,Juan Roberto,"Cl. 65b #88-72, Bogotá, Colombia",1.0,1,estable,Occidente,1.0
+Serrania del Vinculo 1,Andres Quitian,"Carrera 4 N° 50-120 sur, Soacha Cundinamarca, Colombia",4.0,1,estable,Soacha,2.0
+Reserva 20 de Julio,Juan Roberto,"Calle 24 sur N° 5 -26, Colombia",3.0,1,estable,Sur,1.0
+Baviera Park,Juan Roberto,"calle 176 N° 53 - 05, Colombia",3.0,0,estable,Norte,1.0
+San Juan de Avila,Juan Roberto,"Av la conejera N° Kilometro 5, suba, Colombia",6.0,1,estable,Norte,4.0
+Alberto Merani,Alicia Farias,"Avenida carrera 72 No. 181 - 90, Colombia",11.0,1,estable,Norte,8.0
+Unidad Medica Orluz,Hasbleidy Alba,"Calle 6 N° 7 - 61 Ubate, Colombia",4.0,1,estable,Ubate,1.0
+Esae Sas/ Sede Restrepo,Hasbleidy Alba,"Carrera 24G No. 20-61, Colombia",2.0,1,estable,Occidente,2.0
+Biovita Clinic,Laura Herrera,"Calle 35 N° 46-66, Colombia",1.0,1,estable,Medellin,1.0
+Aciem,Hasbleidy Alba,"Calle 70 N° 9-10, Colombia",1.0,1,estable,Occidente,1.0
+Torres Pijao,Juan Roberto,"Transversal 20 No. 94 - 25, Colombia",3.0,0,estable,Occidente,1.0
+Forest,Hasbleidy Alba,"Calle 2 N° 1c-00, Chía, Colombia",3.0,0,estable,Chia,1.0
+Balcones de la Colina,Juan Roberto,"Calle 160 N° 57 60, Colombia",3.0,1,estable,Norte,1.0
+Elite Care Assist sas,Hasbleidy Alba,"Carrera 10 N° 97a- 13, Colombia",1.0,1,estable,Norte,1.0
+Mirador de los Cipreses,Juan Roberto,"Calle 187 N° 19a-85, Colombia",3.0,1,estable,Norte,2.0
+53 Living,Juan Roberto,"Carrera 86 No. 53A-30, Colombia",3.0,1,estable,Norte,1.0
+AG3,Andres Quitian,"Calle 169B N° 75-73, Colombia",7.0,0,estable,Norte,8.0
+Ilarco 114,Juan Roberto,"Av Suba #114a-50,, Colombia",5.0,0,estable,Norte,4.0
+Parque Central Avanzza,Juan Roberto,"Carrera 33 # 25 A 77, Colombia",5.0,0,estable,Centro - occidente,4.0
+El Roble,Juan Roberto,"CALLE 151 # 11-62, Colombia",4.0,1,estable,Norte,2.0
+La Fontana,Juan Roberto,"Cra. 113c #145-50, Bogotá, Colombia",2.0,1,estable,Norte,2.0
+Colombian Shared,Juan Roberto,"Calle 72 # 7 - 64 Carrera 28 # 70 – 36 (serv. por turns ocasional), Colombia",2.0,0,estable,Norte,2.0
+Taoka 2,Juan Roberto,"CR 32 A # 25 B 38, Colombia",1.0,0,estable,Centro - Occidente,1.0
+Vida Medical - Dolor,Hasbleidy Alba,"Carrera 47 N° 95-60, Colombia",4.0,1,estable,Norte,2.0
+Rincon de Iberia,Hasbleidy Alba,"Calle 137a N° 58-35, Colombia",6.0,0,estable,Norte,4.0
+La Requilina,Hasbleidy Alba,"Avenida Caracas 116 A SUR, Colombia",8.0,0,estable,Sur,4.0
+Alamo,Hasbleidy Alba,"Verganzo, Tocancipá, Cundinamarca, Colombia",6.0,1,estable,Tocancipa,4.0
+Luar,Andres Quitian,"Cra. 58C #147-36, Colombia",6.0,0,estable,Norte,4.0
+Bosques de Bogota,Hasbleidy Alba,"Cl. 136 Sur #14f-85,, Colombia",2.0,1,estable,Sur,1.0
+Udara,Hasbleidy Alba,"Cra. 28 #80-10, Colombia",2.0,0,estable,Norte,2.0
+Somos Networks,Laura Herrera,"Calle 26 A # 43F-118 - barrio colombia, Colombia",2.0,1,estable,Medellin,2.0
+Oporto Club Residencial - PH,Andres Quitian,"AC 3 # 36 80, Colombia",9.0,1,estable,Centro - Occidente,4.0
+Corinto,Andres Quitian,"Cl. 161 #54-87, Colombia",6.0,0,estable,Norte,4.0
+Avantis,Hasbleidy Alba,"Tv. 3C #54-26, Colombia",2.0,0,estable,Norte,1.0
+Colors,Laura Herrera,"Cra. 24DD #41SUR 190, Zona 6, Envigado, Antioquia, Colombia",6.0,0,estable,Envigado,4.0
+Ocean-Re,Hasbleidy Alba,"CARRERA 7 #155C-30. Oficina 2808,, Colombia",1.0,0,estable,Noroccidente,1.0
+NATURAL RENOVATION,Hasbleidy Alba,"CRA 15#124-30, Colombia",1.0,0,estable,Norte,1.0
+Gimnasio los portales,Hasbleidy Alba,"CL 212 #77-20,SUBA, Colombia",6.0,0,estable,Noroccidente,4.0
+Sueños Campestres,Camilo Martinez,"condominio Sueños Campestres, Via Vda El Placer, Fusagasugá, Cundinamarca, Colombia",2.0,0,estable,Fusagasuga,2.0
